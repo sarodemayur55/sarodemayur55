@@ -3,7 +3,7 @@
 <img align="right" width="400" src="https://img.freepik.com/free-vector/programmer-concept-illustration_114360-2417.jpg?w=740&t=st=1662004057~exp=1662004657~hmac=80995f84555f637b22bf740cb60bd1416455940c6e43165395cc14f49985a2e2" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayur-sarode-89a08417a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-sarode-89a08417a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayur-sarode-89a08417a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayur-sarode-89a08417a/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pict1331" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pict1331" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/pict1115" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pict1115" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarodemayur55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarodemayur55" height="30" width="40" /></a>
